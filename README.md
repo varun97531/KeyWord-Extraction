@@ -1,4 +1,4 @@
-# augnito.ai
+# KeyWord Extraction
 The task at hand involves the creation of a program dedicated to extracting keywords from
 medical transcriptions. These extracted keywords play a pivotal role in summarizing content,
 enhancing search capabilities, and facilitating efficient information retrieval within the medical
